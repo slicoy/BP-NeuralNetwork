@@ -1,4 +1,4 @@
-# BP-NeuralNetwork
+# BP-NeuralNetwork （back propagation神经网络学习记录）
 ## BP神经网络
 ![image](https://user-images.githubusercontent.com/49675412/152285636-70706a9f-903d-437f-bc5a-d3c03d27ea0e.png)  
 ![image](https://user-images.githubusercontent.com/49675412/152285690-9447bdb3-506d-4ff8-aa84-9f70070800d3.png)  
